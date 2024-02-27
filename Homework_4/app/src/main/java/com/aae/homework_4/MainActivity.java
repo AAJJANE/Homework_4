@@ -12,7 +12,6 @@ import java.util.Random;
 
 public class MainActivity extends AppCompatActivity {
 
-    // поля
     private TextView screen, coordinates;
     private float x;
     private float y;
